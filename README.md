@@ -1,6 +1,11 @@
 # SOFE3650U-A1
 SOFE 3650U - Assignment 1: Design Patterns
 
+**Authors**  
+Alexy Pichette (100822470)  
+Calvin Reveredo (100825740)  
+Rodney Stanislaus (100822918)  
+  
 **Structure of Repository**  
 -src  
   &nbsp; contains all the Java source files required  
